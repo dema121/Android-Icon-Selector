@@ -1,0 +1,7 @@
+action ic_android_black_36dp.png
+editor ic_attach_file_black_48dp.png
+content ic_add_circle_outline_black_24dp.png
+
+first_icon_name.png
+second_icon_name.png
+nth_icon_name.png
